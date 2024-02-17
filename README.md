@@ -6,7 +6,7 @@
 
 ## Link do projeto.
 <div align="left">  
-<a href="https://github.com/felipefagion/projeto/blob/main/projeto.ipynb" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"</a>
+<a href="https://github.com/felipefagion/projeto/blob/main/projetos.ipynb" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"</a>
 
 ## Índice
 - <a href="#linguaguagem">Línguagem Utilizada</a>
