@@ -33,7 +33,7 @@ https://matplotlib.org/stable/index.html
 ## Problema de Négocio.
 
 
-### Em um cenário do mundo dos negócios, a empresa de varejo Lojas Kend estava enfrentando desafios em seu setor altamente competitivo. Em meio a esse panorama, a empresa decidiu dar um passo importante em direção à inovação, reconhecendo a relevância da análise de dados para impulsionar suas estratégias comerciais.
+### Em um cenário do mundo dos negócios, a empresa de varejo Lojas TTH estava enfrentando desafios em seu setor altamente competitivo. Em meio a esse panorama, a empresa decidiu dar um passo importante em direção à inovação, reconhecendo a relevância da análise de dados para impulsionar suas estratégias comerciais.
 
 ### A instituição buscava entender melhor o comportamento do consumidor, otimizar a gestão de estoques e identificar insights importantes para conquistar uma posição de crescimento no mercado.
 ### Ao iniciar meu trabalho, os dados incluíam informações sobre transações de vendas, data de venda, segmentos, categoria, fabricante, vendedor, estado e cidades.
@@ -43,7 +43,7 @@ https://matplotlib.org/stable/index.html
 
 
 ## Conclusão.
-### Ao longo do projeto, eu colaborei em conjunto com as equipes internas da Lojas Kend, compartilhando insights valiosos e ajudando a integrar a análise de dados as operações da empresa e futuralmente uma equipe de dados, principalmente coletar dados faltantes para uma analise mais profunda; já pensando em  modelos preditivos para antecipar tendências de mercado e demanda do consumidor.
+### Ao longo do projeto, eu colaborei em conjunto com as equipes internas da Lojas TTH, compartilhando insights valiosos e ajudando a integrar a análise de dados as operações da empresa e futuralmente uma equipe de dados, principalmente coletar dados faltantes para uma analise mais profunda; já pensando em  modelos preditivos para antecipar tendências de mercado e demanda do consumidor.
 ### Ao final do projeto, a empresa não apenas teve um aumento nas vendas, mas também fortaleceu sua posição no mercado. Sua análise de dados já não era apenas uma ferramenta; tornou-se um condutor para o futuro da empresa no setor de comércio.
 &nbsp;
 *Os dados e a história são fictícias.
