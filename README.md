@@ -38,7 +38,7 @@ https://matplotlib.org/stable/index.html
 ### A instituição buscava entender melhor o comportamento do consumidor, otimizar a gestão de estoques e identificar insights importantes para conquistar uma posição de crescimento no mercado.
 ### Ao iniciar meu trabalho, os dados incluíam informações sobre transações de vendas, data de venda, segmentos, categoria, fabricante, vendedor, estado e cidades.
 
-### Utilizando ferramentas  de análise de dados, eu identifiquei padrões de compra, sazonalidades específicas e correlações entre produtos. Isso permitiu que a Lojas Kend ajustasse suas estratégias de precificação, promoção e começasse a coletar dados de estoque.
+### Utilizando ferramentas  de análise de dados, eu identifiquei padrões de compra, sazonalidades específicas e correlações entre produtos. Isso permitiu que a empresa ajustasse suas estratégias de precificação, promoção e começasse a coletar dados de estoque.
 
 
 
