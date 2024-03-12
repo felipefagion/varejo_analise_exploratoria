@@ -41,11 +41,6 @@ https://matplotlib.org/stable/index.html
 ### Utilizando ferramentas  de análise de dados, eu identifiquei padrões de compra, sazonalidades específicas e correlações entre produtos. Isso permitiu que a empresa ajustasse suas estratégias de precificação, promoção e começasse a coletar dados de estoque.
 
 
-
-## Conclusão.
-### Ao longo do projeto, eu colaborei em conjunto com as equipes internas da Lojas TTH, compartilhando insights valiosos e ajudando a integrar a análise de dados as operações da empresa e futuralmente uma equipe de dados, principalmente coletar dados faltantes para uma analise mais profunda; já pensando em  modelos preditivos para antecipar tendências de mercado e demanda do consumidor.
-### Ao final do projeto, a empresa não apenas teve um aumento nas vendas, mas também fortaleceu sua posição no mercado. Sua análise de dados já não era apenas uma ferramenta; tornou-se um condutor para o futuro da empresa no setor de comércio.
-&nbsp;
 *Os dados e a história são fictícias.
 
 &nbsp;
