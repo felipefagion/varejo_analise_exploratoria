@@ -30,14 +30,8 @@ https://matplotlib.org/stable/index.html
 
 
 
-## Problema de Négocio.
 
-
-### Em um cenário do mundo dos negócios, a empresa de varejo Lojas TTH estava enfrentando desafios em seu setor altamente competitivo. Em meio a esse panorama, a empresa decidiu dar um passo importante em direção à inovação, reconhecendo a relevância da análise de dados para impulsionar suas estratégias comerciais.
-
-### A instituição buscava entender melhor o comportamento do consumidor, otimizar a gestão de estoques e identificar insights importantes para conquistar uma posição de crescimento no mercado.
-### Ao iniciar meu trabalho, os dados incluíam informações sobre transações de vendas, data de venda, segmentos, categoria, fabricante, vendedor, estado e cidades.
-
+### Esse projeto tem como finalidade uma análise exploratória dos dados útilizando python.
 
 
 
