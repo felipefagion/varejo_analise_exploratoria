@@ -12,7 +12,6 @@
 ## Índice
 - <a href="#linguaguagem">Línguagem Utilizada</a>
 - <a href="#bibliotecas">Bibliotecas</a>
-- <a href="#problema">Problema Apresentado</a>
 - <a href="#conclusão">Conclusão<a>
 
 
