@@ -1,6 +1,6 @@
 
 # Projeto de Comércio Varejista.     
-### Esse projeto tem como finalidade uma análise exploratória dos dados útilizando python.
+### Esse projeto tem como finalidade uma análise exploratória dos dados utilizando python.
 
 ## Línguagem Utilizada   
 
