@@ -9,7 +9,6 @@ Formato do Arquivo: XLSX
 Nome do Arquivo: dados_comerciais.xlsx
 Variáveis Incluídas
 
-## Línguagem Utilizada   
 ### Descrição das Variáveis
 
 - ID-Produto: Identificador único para cada produto no dataset.
@@ -24,9 +23,17 @@ Variáveis Incluídas
 - ID-Vendedor: Identificador único para cada vendedor.
 - Data Venda: Data em que a venda foi realizada.
 - ValorVenda: Valor total da venda do produto.
-- Custo: Custo do produto para o vendedor ou loja
+- Custo: Custo do produto para o vendedor ou loja.
 
+### Objetivo do Dataset
+O objetivo deste dataset é analisar e monitorar as vendas de produtos em diferentes categorias e segmentos, facilitando a identificação de tendências de mercado, performance de vendas, e eficiência dos vendedores. Além disso, ele pode ser utilizado para:
 
+- Avaliar o desempenho de produtos e fabricantes.
+- Realizar análises de lucratividade e custo.
+- Identificar padrões de compra por localização geográfica.
+- Auxiliar na tomada de decisões estratégicas para marketing e estoque.
+
+## Línguagem Utilizada   
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
