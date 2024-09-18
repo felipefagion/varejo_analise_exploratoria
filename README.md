@@ -4,11 +4,10 @@
 ## Descrição do Dataset
 Este dataset contém informações detalhadas sobre vendas de produtos, abrangendo diversos aspectos que permitem análises abrangentes do desempenho comercial. Com um total de 457 registros, o dataset foi projetado para fornecer insights valiosos sobre o comportamento de compra, eficiência de vendas e a dinâmica do mercado.
 
-Número de Variáveis: 13
-Formato do Arquivo: XLSX
-Nome do Arquivo: dados_comerciais.xlsx
-Variáveis Incluídas
-
+- **Número de Variáveis: 13**
+- **Formato do Arquivo**: XLSX
+- **Nome do Arquivo**: dados_comerciais.xlsx
+  
 ### Descrição das Variáveis
 
 - ID-Produto: Identificador único para cada produto no dataset.
