@@ -2,7 +2,7 @@
 # Projeto de Comércio Varejista.     
 
 ## Descrição do Dataset
-Este dataset contém informações sobre apartamentos à venda na cidade de São Paulo. Os dados foram coletados por meio de web scraping de vivareal.com.br e foram disponibilizados na plataforma Kaggle.
+Este dataset contém informações detalhadas sobre vendas de produtos, abrangendo diversos aspectos que permitem análises abrangentes do desempenho comercial. Com um total de 457 registros, o dataset foi projetado para fornecer insights valiosos sobre o comportamento de compra, eficiência de vendas e a dinâmica do mercado.
 
 Número de Variáveis: 13
 Formato do Arquivo: XLSX
