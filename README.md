@@ -10,6 +10,7 @@
 - Pandas
 - Numpy
 - matplotly
+- Seaborn 
 
 ## Link do projeto.
 <div align="left">  
